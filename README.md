@@ -16,69 +16,40 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 
 <details>
-    👋 I'm Mark. If you're reading this, I'm looking forward to working together! A little bit about me first, I grew up outside of NYC in NJ but have spent time living in CT, the Bay Area, and now back east on Long Island with my wife and three kids. Fun fact, my full name is Justin Mark Ryan III but I've always gone by my middle name. I try my best to get all of my accounts to reflect that, but you may see some artifacts of my full name leftover (like my email).
+    👋 I'm Mark. If you're reading this, I'm looking forward to working together! Consider this my user manual on how to work with me as a co-worker and as a direct report. A little bit about me first, I grew up outside of NYC in NJ but have spent time living in CT, the Bay Area, and now back east on Long Island with my wife and three kids. Fun fact, my full name is Justin Mark Ryan III but I've always gone by my middle name. I try my best to get all of my accounts to reflect that, but you may see some artifacts of my full name leftover (like my email).
 </details>
 
 ## How to Contact Me
 
 
-<details>
-    <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
-</details>
 <details><br>
-    1. I'm generally avaialble 9am-7pm ET, M-F. Outside of those hours, I will do my best to respond to messages. If it's urgent, a phone call/message is   best.<br><br>
-    2. Slack is my preferred method of communication for quick messages or to get my attention for impromtu converstations if we're not in the office together. We can also start a slack thread and move to a call if a longer conversation is warranted. I'll always acknowlege your message with at least an emoji to show you I've read it.<br><br>
-    3. Email is a necessary evil for me, but I will do my best to respond quickly. If I haven't replied to somthing that needs my attention, please send me a reminder in Slack/phone/messages.<br><br> 
-    4. I keep my calendar up to date, so if there's a time available, feel free to book it. My only ask is to put a note about the topic so I can be well prepared for our meeting.<br><br>
+    I'm generally avaialble 9am-7pm ET, M-F. Outside of those hours, I will do my best to respond to messages. If it's urgent, a phone call/message is   best.<br><br>
+    Slack is my preferred method of communication for quick messages or to get my attention for impromtu converstations if we're not in the office together. We can also start a slack thread and move to a call if a longer conversation is warranted. I'll always acknowlege your message with at least an emoji to show you I've read it.<br><br>
+    Email is a necessary evil for me, but I will do my best to respond quickly. If I haven't replied to somthing that needs my attention, please send me a reminder in Slack/phone/messages.<br><br> 
+    I keep my calendar up to date, so if there's a time available, feel free to book it. My only ask is to put a note about the topic so I can be well prepared for our meeting.<br><br>
+</details>
+
+## Feedback
+
+
+<details><br>
+    I like to receive feedback frequently to make sure I'm on track or to make adjustments as I go (I'd rather make a small adjustment early rather than be surprised duiring a review session).<br><br>
+    I prefer my feedback in-person (or on Webex). Our 1:1s are a good time to give me quick bits of feedback.
 </details>
 
 ## Preferred Working Style
 
 
-<details>
-    <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
+<details><br>
+    I typically prefer quiet work with few disruptions. I structure my day to do focused work in the moring and early afternoon.<br><br>
+    Multi-tasking is not productive for me (or anyone!) so I will focus on one task at a time, usually the one with the closest due date. Please let me know the priority when giving me a task so I can fit it into my workstream approprately.
 </details>
 
 ## What Motivates Me
 
 
 <details>
-    <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
-</details>
-
-## What Demotivates Me
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
-</details>
-
-## My Values (and what I value in others)
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
-</details>
-
-## My Blind Spots
-
-
-<details>
-    <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
-</details>
-
-## My Pet Peeves
-
-
-<details>
-    <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
+    I'm interested in both the business case and the techincal details of the work we do. I enjoy a technical challenge that can be worked through as a team to provide tangible outcomes for the product.
 </details>
 
 ## Other
