@@ -16,8 +16,7 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 
 <details>
-    <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+    👋 I'm Mark. If you're reading this, I'm looking forward to working together! A little bit about me first, I grew up outside of NYC in NJ but have spent time living in CT, the Bay Area, and now back east on Long Island with my wife and three kids. Fun fact, my full name is Justin Mark Ryan III but I've always gone by my middle name. I try my best to get all of my accounts to reflect that, but you may see some artifacts of my full name leftover (like my email).
 </details>
 
 ## How to Contact Me
@@ -27,6 +26,11 @@ Optional Section: You may want to fill out this as a section to help introduce y
     <summary>Tips</summary>
 Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
 </details>
+<details>
+    1. I'm generally avaialble 9am-7pm ET, M-F. Outside of those hours, I will do my best to respond to messages. If it's urgent, a phone call/message is   best.
+    2. Slack is my preferred method of communication for quick messages or to get my attention for impromtu converstations if we're not in the office together. We can also start a slack thread and move to a call if a longer conversation is warranted. I'll always acknowlege your message with at least an emoji to show you I've read it.
+    3. Email is a necessary evil for me, but I will do my best to respond quickly. If I haven't replied to somthing that needs my attention, please send me a reminder in Slack/phone/messages. 
+    4. I keep my calendar up to date, so if there's a time available, feel free to book it. My only ask is to put a note about the topic so I can be well prepared for our meeting.
 
 ## Preferred Working Style
 
