@@ -26,7 +26,7 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
     <summary>Tips</summary>
 Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
 </details>
-<details>
+<details><br>
     1. I'm generally avaialble 9am-7pm ET, M-F. Outside of those hours, I will do my best to respond to messages. If it's urgent, a phone call/message is   best.<br><br>
     2. Slack is my preferred method of communication for quick messages or to get my attention for impromtu converstations if we're not in the office together. We can also start a slack thread and move to a call if a longer conversation is warranted. I'll always acknowlege your message with at least an emoji to show you I've read it.<br><br>
     3. Email is a necessary evil for me, but I will do my best to respond quickly. If I haven't replied to somthing that needs my attention, please send me a reminder in Slack/phone/messages.<br><br> 
