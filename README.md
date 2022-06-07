@@ -27,11 +27,11 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
 </details>
 <details>
-    1. I'm generally avaialble 9am-7pm ET, M-F. Outside of those hours, I will do my best to respond to messages. If it's urgent, a phone call/message is   best.<br>
-    2. Slack is my preferred method of communication for quick messages or to get my attention for impromtu converstations if we're not in the office together. We can also start a slack thread and move to a call if a longer conversation is warranted. I'll always acknowlege your message with at least an emoji to show you I've read it.<br>
-    3. Email is a necessary evil for me, but I will do my best to respond quickly. If I haven't replied to somthing that needs my attention, please send me a reminder in Slack/phone/messages.<br> 
-    4. I keep my calendar up to date, so if there's a time available, feel free to book it. My only ask is to put a note about the topic so I can be well prepared for our meeting.<br>
-</details?
+    1. I'm generally avaialble 9am-7pm ET, M-F. Outside of those hours, I will do my best to respond to messages. If it's urgent, a phone call/message is   best.<br><br>
+    2. Slack is my preferred method of communication for quick messages or to get my attention for impromtu converstations if we're not in the office together. We can also start a slack thread and move to a call if a longer conversation is warranted. I'll always acknowlege your message with at least an emoji to show you I've read it.<br><br>
+    3. Email is a necessary evil for me, but I will do my best to respond quickly. If I haven't replied to somthing that needs my attention, please send me a reminder in Slack/phone/messages.<br><br> 
+    4. I keep my calendar up to date, so if there's a time available, feel free to book it. My only ask is to put a note about the topic so I can be well prepared for our meeting.<br><br>
+</details>
 
 ## Preferred Working Style
 
