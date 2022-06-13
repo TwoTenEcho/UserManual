@@ -48,8 +48,9 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 ## What Motivates Me
 
 
-<details>
-    I'm interested in both the business case and the techincal details of the work we do. I enjoy a technical challenge that can be worked through as a team to provide tangible outcomes for the product.
+<details><br>
+    I'm interested in both the business case and the techincal details of the work we do. I enjoy a technical challenge that can be worked through as a team to provide tangible outcomes for the product. I really like to see the impact of the projects I work on.<br><br>
+    I enjoy working with data. Digging into details and finding the story within the data is particulary motivating. I'm also energized by building visual aids to help convey the story.
 </details>
 
 ## Other
